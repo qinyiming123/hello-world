@@ -3,4 +3,4 @@
 秦翌铭是一个编程菜鸟。
 =====================
 hello world!
-hello pyhin!
+hello python!
